@@ -26,8 +26,8 @@
 	- Un dossier d’exploitation : à l’attention de l’équipe technique du client
 	- Le procès-verbal de livraison finale
 
-	Votre travail sera validé par votre chef de projet (ce rôle est assuré par le mentor qui vous fera passer la soutenance du projet)
- 	Vous utiliserez UML dans les dossiers de conception.
+	Votre travail sera validé par votre chef de projet (ce rôle est assuré par le mentor qui vous fera passer la soutenance du projet
+	Vous utiliserez UML dans les dossiers de conception.
 	Afin de ne pas refaire une conception complète de zéro, vous pouvez vous appuyer sur le travail que vous avez fait lors des projets :
 
 	- Analysez les besoins de votre client pour son groupe de pizzerias
